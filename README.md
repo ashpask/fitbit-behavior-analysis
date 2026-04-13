@@ -16,6 +16,7 @@ I used three files: dailyActivity_merged.csv, sleepDay_merged.csv, and hourlySte
 
 
 Process
+
 I followed the six phase framework taught in the Google Data Analytics course: Ask, Prepare, Process, Analyze, Share, and Act. I defined three business questions, cleaned the data in Excel by removing duplicates and formatting dates, ran averages and a correlation analysis, built a dashboard with three charts, and wrote recommendations based on what I found.
 
 
